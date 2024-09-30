@@ -2,3 +2,4 @@
 citrom
 fóka
 hangya
+alma
