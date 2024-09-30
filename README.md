@@ -1,4 +1,4 @@
 # testRepoCreation
 citrom
-narancs
-korte
+fóka
+hangya
